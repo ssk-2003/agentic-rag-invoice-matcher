@@ -59,8 +59,39 @@ text
 
 ## ✅ Provenance & Audit
 
+📊 AGENTIC RAG INVOICE MATCHER ARCHITECTURE
+
+┌─────────────┐    ┌─────────────┐    ┌─────────────┐
+│    USER     │───▶│   PLANNER   │───▶│ RETRIEVAL   │
+│   QUERY     │    │  (Rule-     │    │   AGENTS    │
+│             │    │   Based)    │    │             │
+└─────────────┘    └─────────────┘    └─────────────┘
+                           │                   │
+                           ▼                   ▼
+                   ┌─────────────┐    ┌─────────────┐
+                   │ AUDIT LOG   │    │  VECTOR     │
+                   │ (Tracking)  │    │  STORES     │
+                   └─────────────┘    │ Invoice+PO  │
+                           │          └─────────────┘
+                           │                   │
+                           │                   ▼
+┌─────────────┐    ┌─────────────┐    ┌─────────────┐
+│   FINAL     │◀───│  RESPONSE   │◀───│ VERIFIER +  │
+│  RESPONSE   │    │ SYNTHESIZER │    │ CONFIDENCE  │
+│             │    │ (Rule-Based)│    │  SCORING    │
+└─────────────┘    └─────────────┘    └─────────────┘
+
+COMPONENTS:
+• Planner: Query analysis → action planning
+• Retrieval Agents: Vector search in invoice/PO databases  
+• Verifier: Confidence scoring & validation
+• Synthesizer: Human-readable response generation
+• Audit Log: Complete step tracking (JSON format)
+
+
 Every answer links directly to the underlying invoice/PO evidence, with audit logs tracking every step (see demo output).
 
 ---
+
 
 
