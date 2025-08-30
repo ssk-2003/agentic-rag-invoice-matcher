@@ -60,12 +60,15 @@ text
 ## ✅ Provenance & Audit
 
 📊 AGENTIC RAG INVOICE MATCHER ARCHITECTURE
-+---------------+       +-------------+       +----------------+       +-------------+       +------------------+
-|   User Query  | --->  |   Planner   | --->  |  Retrieval     | --->  |  Verifier / | --->  |  Response        |
-|   (input)     |       | (Rule-based |       |  Agents (Vec-  |       |  Audit Log  |       |  Synthesizer     |
-|               |       |  logic)     |       |  tor search)   |       |             |       |  (Rule-based     |
-|               |       |             |       |  (Invoice, PO) |       | (tracks all |       |   summary)       |
-|               |       |             |       |                |       |  steps)     |       |                  |
+## 🏗️ System Architecture
+
+```mermaid
+flowchart LR
+    A[User Query (input)] --> B[Planner (Rule-based logic)]
+    B --> C[Retrieval Agents (Vector search)\n(Invoice, PO)]
+    C --> D[Verifier / Audit Log\n(tracks all steps)]
+    D --> E[Response Synthesizer\n(Rule-based summary)]
+
 +---------------+       +-------------+       +----------------+       +-------------+       +------------------+
 
 
@@ -80,6 +83,7 @@ COMPONENTS:
 Every answer links directly to the underlying invoice/PO evidence, with audit logs tracking every step (see demo output).
 
 ---
+
 
 
 
