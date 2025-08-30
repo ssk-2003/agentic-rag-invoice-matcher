@@ -6,7 +6,7 @@ An end-to-end AI-powered pipeline to answer and audit invoice/PO questions using
 
 1. **Clone the repo:**
 
-git clone https://github.com/<ssk-2003>/agentic-rag-invoice-matcher.git
+git clone https://github.com/ssk-2003/agentic-rag-invoice-matcher.git
 cd agentic-rag-invoice-matcher
 
 text
@@ -62,4 +62,5 @@ text
 Every answer links directly to the underlying invoice/PO evidence, with audit logs tracking every step (see demo output).
 
 ---
+
 
