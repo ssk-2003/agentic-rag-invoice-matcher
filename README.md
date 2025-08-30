@@ -58,10 +58,7 @@ text
 - Simple retriever, planner, and audit trail logic (ideal for interview/demo)
 
 ## ✅ Provenance & Audit🏗️ AGENTIC RAG ARCHITECTURE - INVOICE MATCHER
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ssk-2003/agentic-rag-invoice-matcher/screenshort/Flowchart.png" alt="Landing Page" width="500"/>
-</div>
+![Flowchart](./screenshort/Flowchart.png)
 
 
 COMPONENTS:
@@ -71,6 +68,7 @@ COMPONENTS:
 • Verifier: Confidence scoring & validation
 • Response Synthesizer: Human-readable answer generation
 • Audit Log: Complete pipeline tracking (JSON format)
+
 
 
 
