@@ -57,33 +57,32 @@ text
 - Uses mock invoices and PO (demo data)
 - Simple retriever, planner, and audit trail logic (ideal for interview/demo)
 
-## ✅ Provenance & Audit
+## ✅ Provenance & Audit🏗️ AGENTIC RAG ARCHITECTURE - INVOICE MATCHER
 
-📊 AGENTIC RAG INVOICE MATCHER ARCHITECTURE
-## 🏗️ System Architecture
-
-```mermaid
-flowchart LR
-    A[User Query (input)] --> B[Planner (Rule-based logic)]
-    B --> C[Retrieval Agents (Vector search)\n(Invoice, PO)]
-    C --> D[Verifier / Audit Log\n(tracks all steps)]
-    D --> E[Response Synthesizer\n(Rule-based summary)]
-
-+---------------+       +-------------+       +----------------+       +-------------+       +------------------+
-
+┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
+│ User Query  │───▶│   Planner   │───▶│ Retrieval   │───▶│  Verifier & │
+│   Input     │    │(Rule-Based) │    │   Agents    │    │ Confidence  │
+└─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘
+                           │                   │                   │
+                           │                   ▼                   ▼
+┌─────────────┐           │          ┌─────────────┐    ┌─────────────┐
+│ Audit Log   │◀──────────┼──────────│ Vector      │    │ Response    │
+│ (JSON)      │           │          │ Stores      │    │Synthesizer  │
+└─────────────┘           │          │(Invoice+PO) │    └─────────────┘
+                          │          └─────────────┘           │
+                          │                                   ▼
+                          └──────────────────────────┌─────────────┐
+                                                     │ Final       │
+                                                     │ Response    │
+                                                     └─────────────┘
 
 COMPONENTS:
-• Planner: Query analysis → action planning
-• Retrieval Agents: Vector search in invoice/PO databases  
+• User Query: Invoice/PO questions
+• Planner: Determines retrieval strategy  
+• Retrieval Agents: Vector search in invoice/PO databases
 • Verifier: Confidence scoring & validation
-• Synthesizer: Human-readable response generation
-• Audit Log: Complete step tracking (JSON format)
-
-
-Every answer links directly to the underlying invoice/PO evidence, with audit logs tracking every step (see demo output).
-
----
-
+• Response Synthesizer: Human-readable answer generation
+• Audit Log: Complete pipeline tracking (JSON format)
 
 
 
