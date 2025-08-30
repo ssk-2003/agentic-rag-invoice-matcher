@@ -1,0 +1,1672 @@
+[
+  {
+    "invoice_id": "INV-1000",
+    "po_number": "PO-2000",
+    "vendor": "SupplyCo",
+    "invoice_date": "2025-07-26T11:44:50.025284",
+    "due_date": "2025-10-14T11:44:50.025284",
+    "total_amount": 8391.49,
+    "currency": "USD",
+    "status": "flagged",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 3,
+        "unit_price": 149.25,
+        "total": 635.04
+      },
+      {
+        "description": "Item 2",
+        "quantity": 6,
+        "unit_price": 178.37,
+        "total": 399.25
+      }
+    ],
+    "flagged_reasons": [
+      "Amount mismatch with PO",
+      "Missing goods receipt",
+      "Vendor not in approved list"
+    ]
+  },
+  {
+    "invoice_id": "INV-1001",
+    "po_number": "PO-2001",
+    "vendor": "TechCorp",
+    "invoice_date": "2025-08-18T11:44:50.025284",
+    "due_date": "2025-09-26T11:44:50.025284",
+    "total_amount": 3975.88,
+    "currency": "USD",
+    "status": "approved",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 3,
+        "unit_price": 166.94,
+        "total": 1733.84
+      },
+      {
+        "description": "Item 2",
+        "quantity": 4,
+        "unit_price": 41.1,
+        "total": 1662.78
+      },
+      {
+        "description": "Item 3",
+        "quantity": 9,
+        "unit_price": 125.86,
+        "total": 1757.3
+      },
+      {
+        "description": "Item 4",
+        "quantity": 3,
+        "unit_price": 54.05,
+        "total": 1845.92
+      },
+      {
+        "description": "Item 5",
+        "quantity": 6,
+        "unit_price": 354.43,
+        "total": 384.31
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1002",
+    "po_number": "PO-2002",
+    "vendor": "SupplyCo",
+    "invoice_date": "2025-06-18T11:44:50.025284",
+    "due_date": "2025-10-04T11:44:50.025284",
+    "total_amount": 5866.83,
+    "currency": "USD",
+    "status": "flagged",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 8,
+        "unit_price": 21.91,
+        "total": 1543.48
+      },
+      {
+        "description": "Item 2",
+        "quantity": 4,
+        "unit_price": 372.62,
+        "total": 1038.29
+      }
+    ],
+    "flagged_reasons": [
+      "Amount mismatch with PO",
+      "Missing goods receipt",
+      "Vendor not in approved list"
+    ]
+  },
+  {
+    "invoice_id": "INV-1003",
+    "po_number": null,
+    "vendor": "TechCorp",
+    "invoice_date": "2025-07-10T11:44:50.025284",
+    "due_date": "2025-10-03T11:44:50.025284",
+    "total_amount": 8959.13,
+    "currency": "USD",
+    "status": "approved",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 5,
+        "unit_price": 442.0,
+        "total": 1725.42
+      },
+      {
+        "description": "Item 2",
+        "quantity": 4,
+        "unit_price": 334.07,
+        "total": 521.76
+      },
+      {
+        "description": "Item 3",
+        "quantity": 4,
+        "unit_price": 146.87,
+        "total": 373.46
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1004",
+    "po_number": "PO-2004",
+    "vendor": "MaterialsInc",
+    "invoice_date": "2025-07-06T11:44:50.025284",
+    "due_date": "2025-10-03T11:44:50.025284",
+    "total_amount": 536.83,
+    "currency": "USD",
+    "status": "approved",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 8,
+        "unit_price": 88.33,
+        "total": 1920.12
+      },
+      {
+        "description": "Item 2",
+        "quantity": 5,
+        "unit_price": 434.96,
+        "total": 1034.75
+      },
+      {
+        "description": "Item 3",
+        "quantity": 9,
+        "unit_price": 198.41,
+        "total": 963.74
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1005",
+    "po_number": "PO-2005",
+    "vendor": "SupplyCo",
+    "invoice_date": "2025-06-29T11:44:50.025284",
+    "due_date": "2025-09-14T11:44:50.025284",
+    "total_amount": 9418.81,
+    "currency": "USD",
+    "status": "pending",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 6,
+        "unit_price": 493.27,
+        "total": 185.12
+      },
+      {
+        "description": "Item 2",
+        "quantity": 1,
+        "unit_price": 488.76,
+        "total": 1870.07
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1006",
+    "po_number": "PO-2006",
+    "vendor": "MaterialsInc",
+    "invoice_date": "2025-07-08T11:44:50.025284",
+    "due_date": "2025-10-06T11:44:50.025284",
+    "total_amount": 6049.89,
+    "currency": "USD",
+    "status": "approved",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 4,
+        "unit_price": 289.74,
+        "total": 1701.64
+      },
+      {
+        "description": "Item 2",
+        "quantity": 10,
+        "unit_price": 274.65,
+        "total": 894.54
+      },
+      {
+        "description": "Item 3",
+        "quantity": 7,
+        "unit_price": 292.99,
+        "total": 899.48
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1007",
+    "po_number": "PO-2007",
+    "vendor": "TechCorp",
+    "invoice_date": "2025-08-19T11:44:50.025284",
+    "due_date": "2025-10-09T11:44:50.025284",
+    "total_amount": 2248.29,
+    "currency": "USD",
+    "status": "pending",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 2,
+        "unit_price": 146.85,
+        "total": 1759.18
+      },
+      {
+        "description": "Item 2",
+        "quantity": 10,
+        "unit_price": 392.46,
+        "total": 474.35
+      },
+      {
+        "description": "Item 3",
+        "quantity": 9,
+        "unit_price": 235.34,
+        "total": 833.53
+      },
+      {
+        "description": "Item 4",
+        "quantity": 1,
+        "unit_price": 142.26,
+        "total": 1746.11
+      },
+      {
+        "description": "Item 5",
+        "quantity": 1,
+        "unit_price": 99.09,
+        "total": 83.99
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1008",
+    "po_number": "PO-2008",
+    "vendor": "EquipmentLtd",
+    "invoice_date": "2025-07-12T11:44:50.025284",
+    "due_date": "2025-10-07T11:44:50.025284",
+    "total_amount": 6735.86,
+    "currency": "USD",
+    "status": "pending",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 2,
+        "unit_price": 183.82,
+        "total": 263.29
+      },
+      {
+        "description": "Item 2",
+        "quantity": 3,
+        "unit_price": 141.59,
+        "total": 262.32
+      },
+      {
+        "description": "Item 3",
+        "quantity": 7,
+        "unit_price": 437.08,
+        "total": 690.07
+      },
+      {
+        "description": "Item 4",
+        "quantity": 4,
+        "unit_price": 290.68,
+        "total": 618.11
+      },
+      {
+        "description": "Item 5",
+        "quantity": 7,
+        "unit_price": 444.5,
+        "total": 1519.08
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1009",
+    "po_number": "PO-2009",
+    "vendor": "TechCorp",
+    "invoice_date": "2025-06-01T11:44:50.025284",
+    "due_date": "2025-10-04T11:44:50.025284",
+    "total_amount": 6757.17,
+    "currency": "USD",
+    "status": "approved",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 3,
+        "unit_price": 327.28,
+        "total": 1464.19
+      },
+      {
+        "description": "Item 2",
+        "quantity": 4,
+        "unit_price": 311.42,
+        "total": 361.8
+      },
+      {
+        "description": "Item 3",
+        "quantity": 2,
+        "unit_price": 235.07,
+        "total": 361.05
+      },
+      {
+        "description": "Item 4",
+        "quantity": 4,
+        "unit_price": 443.63,
+        "total": 1518.15
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1010",
+    "po_number": null,
+    "vendor": "TechCorp",
+    "invoice_date": "2025-08-13T11:44:50.025284",
+    "due_date": "2025-09-17T11:44:50.025284",
+    "total_amount": 4825.7,
+    "currency": "USD",
+    "status": "pending",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 7,
+        "unit_price": 370.66,
+        "total": 293.61
+      },
+      {
+        "description": "Item 2",
+        "quantity": 1,
+        "unit_price": 92.8,
+        "total": 1070.29
+      },
+      {
+        "description": "Item 3",
+        "quantity": 6,
+        "unit_price": 203.34,
+        "total": 1601.8
+      },
+      {
+        "description": "Item 4",
+        "quantity": 10,
+        "unit_price": 118.04,
+        "total": 185.39
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1011",
+    "po_number": "PO-2011",
+    "vendor": "ServicePro",
+    "invoice_date": "2025-07-07T11:44:50.025284",
+    "due_date": "2025-09-25T11:44:50.025284",
+    "total_amount": 9920.77,
+    "currency": "USD",
+    "status": "flagged",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 1,
+        "unit_price": 100.31,
+        "total": 453.66
+      },
+      {
+        "description": "Item 2",
+        "quantity": 6,
+        "unit_price": 307.82,
+        "total": 1620.07
+      },
+      {
+        "description": "Item 3",
+        "quantity": 2,
+        "unit_price": 242.96,
+        "total": 1258.01
+      }
+    ],
+    "flagged_reasons": [
+      "Amount mismatch with PO",
+      "Missing goods receipt",
+      "Vendor not in approved list"
+    ]
+  },
+  {
+    "invoice_id": "INV-1012",
+    "po_number": null,
+    "vendor": "ServicePro",
+    "invoice_date": "2025-06-26T11:44:50.025284",
+    "due_date": "2025-09-19T11:44:50.025284",
+    "total_amount": 1018.92,
+    "currency": "USD",
+    "status": "approved",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 4,
+        "unit_price": 17.28,
+        "total": 1368.25
+      },
+      {
+        "description": "Item 2",
+        "quantity": 2,
+        "unit_price": 195.74,
+        "total": 1613.96
+      },
+      {
+        "description": "Item 3",
+        "quantity": 10,
+        "unit_price": 394.19,
+        "total": 852.28
+      },
+      {
+        "description": "Item 4",
+        "quantity": 8,
+        "unit_price": 244.8,
+        "total": 1301.81
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1013",
+    "po_number": "PO-2013",
+    "vendor": "SupplyCo",
+    "invoice_date": "2025-08-07T11:44:50.025284",
+    "due_date": "2025-09-29T11:44:50.025284",
+    "total_amount": 8724.59,
+    "currency": "USD",
+    "status": "flagged",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 10,
+        "unit_price": 414.58,
+        "total": 606.05
+      },
+      {
+        "description": "Item 2",
+        "quantity": 9,
+        "unit_price": 491.3,
+        "total": 1540.76
+      },
+      {
+        "description": "Item 3",
+        "quantity": 9,
+        "unit_price": 311.93,
+        "total": 418.31
+      },
+      {
+        "description": "Item 4",
+        "quantity": 6,
+        "unit_price": 434.51,
+        "total": 499.01
+      },
+      {
+        "description": "Item 5",
+        "quantity": 6,
+        "unit_price": 436.32,
+        "total": 1024.0
+      }
+    ],
+    "flagged_reasons": [
+      "Amount mismatch with PO",
+      "Missing goods receipt",
+      "Vendor not in approved list"
+    ]
+  },
+  {
+    "invoice_id": "INV-1014",
+    "po_number": "PO-2014",
+    "vendor": "EquipmentLtd",
+    "invoice_date": "2025-07-21T11:44:50.025284",
+    "due_date": "2025-09-27T11:44:50.025284",
+    "total_amount": 3546.95,
+    "currency": "USD",
+    "status": "approved",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 9,
+        "unit_price": 266.69,
+        "total": 1307.29
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1015",
+    "po_number": "PO-2015",
+    "vendor": "ServicePro",
+    "invoice_date": "2025-07-05T11:44:50.025284",
+    "due_date": "2025-10-08T11:44:50.025284",
+    "total_amount": 2474.1,
+    "currency": "USD",
+    "status": "pending",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 2,
+        "unit_price": 365.4,
+        "total": 896.0
+      },
+      {
+        "description": "Item 2",
+        "quantity": 8,
+        "unit_price": 493.29,
+        "total": 79.1
+      },
+      {
+        "description": "Item 3",
+        "quantity": 8,
+        "unit_price": 301.08,
+        "total": 404.66
+      },
+      {
+        "description": "Item 4",
+        "quantity": 2,
+        "unit_price": 285.68,
+        "total": 376.09
+      },
+      {
+        "description": "Item 5",
+        "quantity": 7,
+        "unit_price": 140.19,
+        "total": 1199.02
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1016",
+    "po_number": "PO-2016",
+    "vendor": "TechCorp",
+    "invoice_date": "2025-06-11T11:44:50.025284",
+    "due_date": "2025-09-25T11:44:50.025284",
+    "total_amount": 7873.02,
+    "currency": "USD",
+    "status": "pending",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 6,
+        "unit_price": 42.56,
+        "total": 231.54
+      },
+      {
+        "description": "Item 2",
+        "quantity": 6,
+        "unit_price": 130.61,
+        "total": 1686.81
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1017",
+    "po_number": "PO-2017",
+    "vendor": "ServicePro",
+    "invoice_date": "2025-07-28T11:44:50.025284",
+    "due_date": "2025-10-04T11:44:50.025284",
+    "total_amount": 7607.77,
+    "currency": "USD",
+    "status": "approved",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 1,
+        "unit_price": 12.98,
+        "total": 686.91
+      },
+      {
+        "description": "Item 2",
+        "quantity": 5,
+        "unit_price": 314.2,
+        "total": 190.5
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1018",
+    "po_number": "PO-2018",
+    "vendor": "TechCorp",
+    "invoice_date": "2025-08-27T11:44:50.025284",
+    "due_date": "2025-10-11T11:44:50.025284",
+    "total_amount": 8747.72,
+    "currency": "USD",
+    "status": "pending",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 3,
+        "unit_price": 31.3,
+        "total": 724.6
+      },
+      {
+        "description": "Item 2",
+        "quantity": 5,
+        "unit_price": 107.94,
+        "total": 1132.39
+      },
+      {
+        "description": "Item 3",
+        "quantity": 2,
+        "unit_price": 182.93,
+        "total": 933.84
+      },
+      {
+        "description": "Item 4",
+        "quantity": 3,
+        "unit_price": 315.99,
+        "total": 1409.26
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1019",
+    "po_number": "PO-2019",
+    "vendor": "ServicePro",
+    "invoice_date": "2025-06-30T11:44:50.025284",
+    "due_date": "2025-09-26T11:44:50.025284",
+    "total_amount": 667.86,
+    "currency": "USD",
+    "status": "approved",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 5,
+        "unit_price": 268.82,
+        "total": 784.08
+      },
+      {
+        "description": "Item 2",
+        "quantity": 5,
+        "unit_price": 487.49,
+        "total": 865.84
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1020",
+    "po_number": "PO-2020",
+    "vendor": "EquipmentLtd",
+    "invoice_date": "2025-06-07T11:44:50.025284",
+    "due_date": "2025-09-20T11:44:50.025284",
+    "total_amount": 8439.21,
+    "currency": "USD",
+    "status": "flagged",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 10,
+        "unit_price": 449.2,
+        "total": 1357.46
+      },
+      {
+        "description": "Item 2",
+        "quantity": 2,
+        "unit_price": 393.47,
+        "total": 1871.45
+      }
+    ],
+    "flagged_reasons": [
+      "Amount mismatch with PO",
+      "Missing goods receipt",
+      "Vendor not in approved list"
+    ]
+  },
+  {
+    "invoice_id": "INV-1021",
+    "po_number": "PO-2021",
+    "vendor": "MaterialsInc",
+    "invoice_date": "2025-06-15T11:44:50.025284",
+    "due_date": "2025-09-26T11:44:50.025284",
+    "total_amount": 3002.04,
+    "currency": "USD",
+    "status": "pending",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 5,
+        "unit_price": 348.71,
+        "total": 1086.98
+      },
+      {
+        "description": "Item 2",
+        "quantity": 1,
+        "unit_price": 490.78,
+        "total": 227.72
+      },
+      {
+        "description": "Item 3",
+        "quantity": 9,
+        "unit_price": 304.19,
+        "total": 1486.22
+      },
+      {
+        "description": "Item 4",
+        "quantity": 8,
+        "unit_price": 251.04,
+        "total": 1451.06
+      },
+      {
+        "description": "Item 5",
+        "quantity": 5,
+        "unit_price": 108.42,
+        "total": 1194.28
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1022",
+    "po_number": "PO-2022",
+    "vendor": "TechCorp",
+    "invoice_date": "2025-07-21T11:44:50.025284",
+    "due_date": "2025-09-26T11:44:50.025284",
+    "total_amount": 4156.23,
+    "currency": "USD",
+    "status": "approved",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 9,
+        "unit_price": 228.86,
+        "total": 1250.45
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1023",
+    "po_number": "PO-2023",
+    "vendor": "EquipmentLtd",
+    "invoice_date": "2025-08-11T11:44:50.025284",
+    "due_date": "2025-09-25T11:44:50.025284",
+    "total_amount": 2202.78,
+    "currency": "USD",
+    "status": "approved",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 4,
+        "unit_price": 306.08,
+        "total": 395.24
+      },
+      {
+        "description": "Item 2",
+        "quantity": 1,
+        "unit_price": 156.73,
+        "total": 1342.2
+      },
+      {
+        "description": "Item 3",
+        "quantity": 4,
+        "unit_price": 484.56,
+        "total": 971.67
+      },
+      {
+        "description": "Item 4",
+        "quantity": 10,
+        "unit_price": 313.76,
+        "total": 1639.6
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1024",
+    "po_number": null,
+    "vendor": "TechCorp",
+    "invoice_date": "2025-08-22T11:44:50.025284",
+    "due_date": "2025-09-29T11:44:50.025284",
+    "total_amount": 3434.69,
+    "currency": "USD",
+    "status": "approved",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 9,
+        "unit_price": 451.59,
+        "total": 1560.3
+      },
+      {
+        "description": "Item 2",
+        "quantity": 6,
+        "unit_price": 253.41,
+        "total": 1565.43
+      },
+      {
+        "description": "Item 3",
+        "quantity": 3,
+        "unit_price": 319.37,
+        "total": 1319.5
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1025",
+    "po_number": "PO-2025",
+    "vendor": "SupplyCo",
+    "invoice_date": "2025-06-23T11:44:50.025284",
+    "due_date": "2025-09-15T11:44:50.025284",
+    "total_amount": 7569.31,
+    "currency": "USD",
+    "status": "flagged",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 3,
+        "unit_price": 80.57,
+        "total": 78.0
+      },
+      {
+        "description": "Item 2",
+        "quantity": 10,
+        "unit_price": 374.49,
+        "total": 263.99
+      },
+      {
+        "description": "Item 3",
+        "quantity": 4,
+        "unit_price": 303.99,
+        "total": 923.41
+      },
+      {
+        "description": "Item 4",
+        "quantity": 10,
+        "unit_price": 62.18,
+        "total": 758.82
+      }
+    ],
+    "flagged_reasons": [
+      "Amount mismatch with PO",
+      "Missing goods receipt",
+      "Vendor not in approved list"
+    ]
+  },
+  {
+    "invoice_id": "INV-1026",
+    "po_number": "PO-2026",
+    "vendor": "SupplyCo",
+    "invoice_date": "2025-06-29T11:44:50.025284",
+    "due_date": "2025-10-05T11:44:50.025284",
+    "total_amount": 3310.72,
+    "currency": "USD",
+    "status": "flagged",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 2,
+        "unit_price": 36.81,
+        "total": 1026.3
+      }
+    ],
+    "flagged_reasons": [
+      "Amount mismatch with PO",
+      "Missing goods receipt",
+      "Vendor not in approved list"
+    ]
+  },
+  {
+    "invoice_id": "INV-1027",
+    "po_number": "PO-2027",
+    "vendor": "TechCorp",
+    "invoice_date": "2025-07-09T11:44:50.025284",
+    "due_date": "2025-10-05T11:44:50.025284",
+    "total_amount": 8932.22,
+    "currency": "USD",
+    "status": "pending",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 8,
+        "unit_price": 169.45,
+        "total": 1758.41
+      },
+      {
+        "description": "Item 2",
+        "quantity": 7,
+        "unit_price": 255.69,
+        "total": 1211.97
+      },
+      {
+        "description": "Item 3",
+        "quantity": 5,
+        "unit_price": 407.61,
+        "total": 721.15
+      },
+      {
+        "description": "Item 4",
+        "quantity": 10,
+        "unit_price": 209.15,
+        "total": 595.04
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1028",
+    "po_number": "PO-2028",
+    "vendor": "MaterialsInc",
+    "invoice_date": "2025-07-20T11:44:50.025284",
+    "due_date": "2025-09-20T11:44:50.025284",
+    "total_amount": 6041.45,
+    "currency": "USD",
+    "status": "pending",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 10,
+        "unit_price": 386.93,
+        "total": 306.64
+      },
+      {
+        "description": "Item 2",
+        "quantity": 2,
+        "unit_price": 352.04,
+        "total": 1167.94
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1029",
+    "po_number": "PO-2029",
+    "vendor": "MaterialsInc",
+    "invoice_date": "2025-06-15T11:44:50.025284",
+    "due_date": "2025-10-10T11:44:50.025284",
+    "total_amount": 480.56,
+    "currency": "USD",
+    "status": "pending",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 6,
+        "unit_price": 56.66,
+        "total": 1265.34
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1030",
+    "po_number": "PO-2030",
+    "vendor": "ServicePro",
+    "invoice_date": "2025-06-24T11:44:50.025284",
+    "due_date": "2025-10-06T11:44:50.025284",
+    "total_amount": 3250.47,
+    "currency": "USD",
+    "status": "pending",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 4,
+        "unit_price": 13.34,
+        "total": 552.79
+      },
+      {
+        "description": "Item 2",
+        "quantity": 9,
+        "unit_price": 430.38,
+        "total": 1994.0
+      },
+      {
+        "description": "Item 3",
+        "quantity": 3,
+        "unit_price": 379.81,
+        "total": 936.56
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1031",
+    "po_number": "PO-2031",
+    "vendor": "ServicePro",
+    "invoice_date": "2025-07-05T11:44:50.025284",
+    "due_date": "2025-09-18T11:44:50.025284",
+    "total_amount": 7335.96,
+    "currency": "USD",
+    "status": "approved",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 9,
+        "unit_price": 437.48,
+        "total": 1285.88
+      },
+      {
+        "description": "Item 2",
+        "quantity": 1,
+        "unit_price": 274.58,
+        "total": 733.81
+      },
+      {
+        "description": "Item 3",
+        "quantity": 1,
+        "unit_price": 456.72,
+        "total": 644.33
+      },
+      {
+        "description": "Item 4",
+        "quantity": 1,
+        "unit_price": 174.36,
+        "total": 140.2
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1032",
+    "po_number": "PO-2032",
+    "vendor": "EquipmentLtd",
+    "invoice_date": "2025-06-04T11:44:50.025284",
+    "due_date": "2025-10-08T11:44:50.025284",
+    "total_amount": 4704.58,
+    "currency": "USD",
+    "status": "approved",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 10,
+        "unit_price": 433.55,
+        "total": 1625.94
+      },
+      {
+        "description": "Item 2",
+        "quantity": 1,
+        "unit_price": 207.34,
+        "total": 1177.13
+      },
+      {
+        "description": "Item 3",
+        "quantity": 1,
+        "unit_price": 175.82,
+        "total": 1262.67
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1033",
+    "po_number": "PO-2033",
+    "vendor": "TechCorp",
+    "invoice_date": "2025-08-21T11:44:50.025284",
+    "due_date": "2025-09-18T11:44:50.025284",
+    "total_amount": 343.99,
+    "currency": "USD",
+    "status": "flagged",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 7,
+        "unit_price": 100.77,
+        "total": 322.57
+      },
+      {
+        "description": "Item 2",
+        "quantity": 7,
+        "unit_price": 175.08,
+        "total": 174.79
+      },
+      {
+        "description": "Item 3",
+        "quantity": 2,
+        "unit_price": 487.17,
+        "total": 1087.07
+      },
+      {
+        "description": "Item 4",
+        "quantity": 2,
+        "unit_price": 165.93,
+        "total": 1525.21
+      }
+    ],
+    "flagged_reasons": [
+      "Amount mismatch with PO",
+      "Missing goods receipt",
+      "Vendor not in approved list"
+    ]
+  },
+  {
+    "invoice_id": "INV-1034",
+    "po_number": "PO-2034",
+    "vendor": "EquipmentLtd",
+    "invoice_date": "2025-06-24T11:44:50.025284",
+    "due_date": "2025-09-20T11:44:50.025284",
+    "total_amount": 5063.51,
+    "currency": "USD",
+    "status": "approved",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 7,
+        "unit_price": 466.74,
+        "total": 1121.93
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1035",
+    "po_number": "PO-2035",
+    "vendor": "EquipmentLtd",
+    "invoice_date": "2025-07-24T11:44:50.025284",
+    "due_date": "2025-09-21T11:44:50.025284",
+    "total_amount": 865.21,
+    "currency": "USD",
+    "status": "flagged",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 7,
+        "unit_price": 399.86,
+        "total": 1363.2
+      },
+      {
+        "description": "Item 2",
+        "quantity": 7,
+        "unit_price": 377.86,
+        "total": 956.48
+      },
+      {
+        "description": "Item 3",
+        "quantity": 8,
+        "unit_price": 50.4,
+        "total": 1528.84
+      },
+      {
+        "description": "Item 4",
+        "quantity": 2,
+        "unit_price": 232.3,
+        "total": 235.1
+      }
+    ],
+    "flagged_reasons": [
+      "Amount mismatch with PO",
+      "Missing goods receipt",
+      "Vendor not in approved list"
+    ]
+  },
+  {
+    "invoice_id": "INV-1036",
+    "po_number": "PO-2036",
+    "vendor": "MaterialsInc",
+    "invoice_date": "2025-08-24T11:44:50.025284",
+    "due_date": "2025-09-19T11:44:50.025284",
+    "total_amount": 4799.82,
+    "currency": "USD",
+    "status": "flagged",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 1,
+        "unit_price": 474.45,
+        "total": 1871.91
+      },
+      {
+        "description": "Item 2",
+        "quantity": 5,
+        "unit_price": 217.3,
+        "total": 1771.8
+      }
+    ],
+    "flagged_reasons": [
+      "Amount mismatch with PO",
+      "Missing goods receipt",
+      "Vendor not in approved list"
+    ]
+  },
+  {
+    "invoice_id": "INV-1037",
+    "po_number": "PO-2037",
+    "vendor": "ServicePro",
+    "invoice_date": "2025-08-25T11:44:50.025284",
+    "due_date": "2025-10-04T11:44:50.025284",
+    "total_amount": 6640.05,
+    "currency": "USD",
+    "status": "pending",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 10,
+        "unit_price": 39.38,
+        "total": 1095.23
+      },
+      {
+        "description": "Item 2",
+        "quantity": 10,
+        "unit_price": 241.41,
+        "total": 244.78
+      },
+      {
+        "description": "Item 3",
+        "quantity": 7,
+        "unit_price": 74.51,
+        "total": 238.12
+      },
+      {
+        "description": "Item 4",
+        "quantity": 5,
+        "unit_price": 21.66,
+        "total": 1740.53
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1038",
+    "po_number": "PO-2038",
+    "vendor": "MaterialsInc",
+    "invoice_date": "2025-06-27T11:44:50.025284",
+    "due_date": "2025-10-06T11:44:50.025284",
+    "total_amount": 1996.96,
+    "currency": "USD",
+    "status": "flagged",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 2,
+        "unit_price": 65.81,
+        "total": 1023.48
+      },
+      {
+        "description": "Item 2",
+        "quantity": 7,
+        "unit_price": 112.19,
+        "total": 1821.82
+      },
+      {
+        "description": "Item 3",
+        "quantity": 2,
+        "unit_price": 25.68,
+        "total": 1897.61
+      },
+      {
+        "description": "Item 4",
+        "quantity": 4,
+        "unit_price": 336.31,
+        "total": 144.33
+      },
+      {
+        "description": "Item 5",
+        "quantity": 5,
+        "unit_price": 14.91,
+        "total": 232.74
+      }
+    ],
+    "flagged_reasons": [
+      "Amount mismatch with PO",
+      "Missing goods receipt",
+      "Vendor not in approved list"
+    ]
+  },
+  {
+    "invoice_id": "INV-1039",
+    "po_number": "PO-2039",
+    "vendor": "SupplyCo",
+    "invoice_date": "2025-06-29T11:44:50.025284",
+    "due_date": "2025-09-21T11:44:50.025284",
+    "total_amount": 9332.54,
+    "currency": "USD",
+    "status": "pending",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 9,
+        "unit_price": 292.91,
+        "total": 688.68
+      },
+      {
+        "description": "Item 2",
+        "quantity": 10,
+        "unit_price": 87.47,
+        "total": 229.05
+      },
+      {
+        "description": "Item 3",
+        "quantity": 9,
+        "unit_price": 340.54,
+        "total": 1009.39
+      },
+      {
+        "description": "Item 4",
+        "quantity": 4,
+        "unit_price": 415.84,
+        "total": 750.58
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1040",
+    "po_number": "PO-2040",
+    "vendor": "MaterialsInc",
+    "invoice_date": "2025-06-04T11:44:50.025284",
+    "due_date": "2025-09-19T11:44:50.025284",
+    "total_amount": 611.74,
+    "currency": "USD",
+    "status": "pending",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 7,
+        "unit_price": 156.26,
+        "total": 576.75
+      },
+      {
+        "description": "Item 2",
+        "quantity": 4,
+        "unit_price": 214.68,
+        "total": 1612.81
+      },
+      {
+        "description": "Item 3",
+        "quantity": 2,
+        "unit_price": 48.75,
+        "total": 713.98
+      },
+      {
+        "description": "Item 4",
+        "quantity": 3,
+        "unit_price": 489.14,
+        "total": 977.61
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1041",
+    "po_number": "PO-2041",
+    "vendor": "EquipmentLtd",
+    "invoice_date": "2025-08-22T11:44:50.025284",
+    "due_date": "2025-10-13T11:44:50.025284",
+    "total_amount": 3403.85,
+    "currency": "USD",
+    "status": "flagged",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 2,
+        "unit_price": 251.83,
+        "total": 390.98
+      }
+    ],
+    "flagged_reasons": [
+      "Amount mismatch with PO",
+      "Missing goods receipt",
+      "Vendor not in approved list"
+    ]
+  },
+  {
+    "invoice_id": "INV-1042",
+    "po_number": "PO-2042",
+    "vendor": "ServicePro",
+    "invoice_date": "2025-08-29T11:44:50.025284",
+    "due_date": "2025-10-13T11:44:50.025284",
+    "total_amount": 2024.37,
+    "currency": "USD",
+    "status": "approved",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 2,
+        "unit_price": 146.88,
+        "total": 1166.29
+      },
+      {
+        "description": "Item 2",
+        "quantity": 9,
+        "unit_price": 138.65,
+        "total": 120.69
+      },
+      {
+        "description": "Item 3",
+        "quantity": 1,
+        "unit_price": 184.88,
+        "total": 534.8
+      },
+      {
+        "description": "Item 4",
+        "quantity": 7,
+        "unit_price": 335.79,
+        "total": 1597.46
+      },
+      {
+        "description": "Item 5",
+        "quantity": 3,
+        "unit_price": 208.38,
+        "total": 1801.27
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1043",
+    "po_number": "PO-2043",
+    "vendor": "SupplyCo",
+    "invoice_date": "2025-08-11T11:44:50.025284",
+    "due_date": "2025-09-15T11:44:50.025284",
+    "total_amount": 1150.53,
+    "currency": "USD",
+    "status": "pending",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 10,
+        "unit_price": 299.92,
+        "total": 973.51
+      },
+      {
+        "description": "Item 2",
+        "quantity": 1,
+        "unit_price": 289.1,
+        "total": 1478.67
+      },
+      {
+        "description": "Item 3",
+        "quantity": 6,
+        "unit_price": 124.06,
+        "total": 367.27
+      },
+      {
+        "description": "Item 4",
+        "quantity": 1,
+        "unit_price": 318.7,
+        "total": 339.69
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1044",
+    "po_number": "PO-2044",
+    "vendor": "EquipmentLtd",
+    "invoice_date": "2025-06-30T11:44:50.025284",
+    "due_date": "2025-09-16T11:44:50.025284",
+    "total_amount": 8161.32,
+    "currency": "USD",
+    "status": "approved",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 7,
+        "unit_price": 457.7,
+        "total": 1281.06
+      },
+      {
+        "description": "Item 2",
+        "quantity": 9,
+        "unit_price": 220.95,
+        "total": 1475.31
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1045",
+    "po_number": "PO-2045",
+    "vendor": "MaterialsInc",
+    "invoice_date": "2025-06-04T11:44:50.025284",
+    "due_date": "2025-09-28T11:44:50.025284",
+    "total_amount": 1459.29,
+    "currency": "USD",
+    "status": "pending",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 8,
+        "unit_price": 67.42,
+        "total": 414.32
+      },
+      {
+        "description": "Item 2",
+        "quantity": 5,
+        "unit_price": 325.29,
+        "total": 1258.44
+      }
+    ],
+    "flagged_reasons": []
+  },
+  {
+    "invoice_id": "INV-1046",
+    "po_number": "PO-2046",
+    "vendor": "ServicePro",
+    "invoice_date": "2025-07-21T11:44:50.025284",
+    "due_date": "2025-10-02T11:44:50.025284",
+    "total_amount": 5969.41,
+    "currency": "USD",
+    "status": "flagged",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 8,
+        "unit_price": 16.29,
+        "total": 1741.68
+      },
+      {
+        "description": "Item 2",
+        "quantity": 5,
+        "unit_price": 55.44,
+        "total": 158.02
+      },
+      {
+        "description": "Item 3",
+        "quantity": 4,
+        "unit_price": 247.97,
+        "total": 1988.69
+      },
+      {
+        "description": "Item 4",
+        "quantity": 1,
+        "unit_price": 26.77,
+        "total": 110.23
+      }
+    ],
+    "flagged_reasons": [
+      "Amount mismatch with PO",
+      "Missing goods receipt",
+      "Vendor not in approved list"
+    ]
+  },
+  {
+    "invoice_id": "INV-1047",
+    "po_number": "PO-2047",
+    "vendor": "SupplyCo",
+    "invoice_date": "2025-07-22T11:44:50.025284",
+    "due_date": "2025-09-27T11:44:50.025284",
+    "total_amount": 5649.07,
+    "currency": "USD",
+    "status": "flagged",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 10,
+        "unit_price": 59.46,
+        "total": 1338.34
+      },
+      {
+        "description": "Item 2",
+        "quantity": 4,
+        "unit_price": 275.81,
+        "total": 504.98
+      }
+    ],
+    "flagged_reasons": [
+      "Amount mismatch with PO",
+      "Missing goods receipt",
+      "Vendor not in approved list"
+    ]
+  },
+  {
+    "invoice_id": "INV-1048",
+    "po_number": "PO-2048",
+    "vendor": "TechCorp",
+    "invoice_date": "2025-08-21T11:44:50.025284",
+    "due_date": "2025-09-28T11:44:50.025284",
+    "total_amount": 7964.25,
+    "currency": "USD",
+    "status": "flagged",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 1,
+        "unit_price": 123.52,
+        "total": 167.17
+      },
+      {
+        "description": "Item 2",
+        "quantity": 7,
+        "unit_price": 411.24,
+        "total": 1766.82
+      },
+      {
+        "description": "Item 3",
+        "quantity": 3,
+        "unit_price": 252.0,
+        "total": 372.1
+      },
+      {
+        "description": "Item 4",
+        "quantity": 5,
+        "unit_price": 457.24,
+        "total": 1715.91
+      },
+      {
+        "description": "Item 5",
+        "quantity": 1,
+        "unit_price": 401.73,
+        "total": 633.14
+      }
+    ],
+    "flagged_reasons": [
+      "Amount mismatch with PO",
+      "Missing goods receipt",
+      "Vendor not in approved list"
+    ]
+  },
+  {
+    "invoice_id": "INV-1049",
+    "po_number": "PO-2049",
+    "vendor": "SupplyCo",
+    "invoice_date": "2025-08-25T11:44:50.025284",
+    "due_date": "2025-09-27T11:44:50.025284",
+    "total_amount": 4184.85,
+    "currency": "USD",
+    "status": "approved",
+    "line_items": [
+      {
+        "description": "Item 1",
+        "quantity": 7,
+        "unit_price": 224.73,
+        "total": 1219.12
+      },
+      {
+        "description": "Item 2",
+        "quantity": 10,
+        "unit_price": 343.47,
+        "total": 145.59
+      },
+      {
+        "description": "Item 3",
+        "quantity": 5,
+        "unit_price": 419.01,
+        "total": 1320.85
+      },
+      {
+        "description": "Item 4",
+        "quantity": 10,
+        "unit_price": 159.54,
+        "total": 393.19
+      }
+    ],
+    "flagged_reasons": []
+  }
+]

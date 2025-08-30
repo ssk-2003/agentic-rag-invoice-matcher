@@ -1,0 +1,1779 @@
+[
+  {
+    "po_number": "PO-2000",
+    "department": "Finance",
+    "created_date": "2025-05-19T11:44:50.025284",
+    "vendor": "MaterialsInc",
+    "total_amount": 4452.61,
+    "currency": "USD",
+    "status": "partially_received",
+    "line_items": [
+      {
+        "item_code": "ITEM-7781",
+        "description": "Product 1",
+        "quantity_ordered": 2,
+        "quantity_received": 6,
+        "unit_price": 182.43
+      },
+      {
+        "item_code": "ITEM-9890",
+        "description": "Product 2",
+        "quantity_ordered": 8,
+        "quantity_received": 1,
+        "unit_price": 114.11
+      },
+      {
+        "item_code": "ITEM-9831",
+        "description": "Product 3",
+        "quantity_ordered": 3,
+        "quantity_received": 7,
+        "unit_price": 102.13
+      },
+      {
+        "item_code": "ITEM-9704",
+        "description": "Product 4",
+        "quantity_ordered": 9,
+        "quantity_received": 1,
+        "unit_price": 289.89
+      }
+    ],
+    "delivery_date": "2025-09-19T11:44:50.025284",
+    "approver": "manager1@company.com"
+  },
+  {
+    "po_number": "PO-2001",
+    "department": "Finance",
+    "created_date": "2025-07-23T11:44:50.025284",
+    "vendor": "ServicePro",
+    "total_amount": 376.35,
+    "currency": "USD",
+    "status": "open",
+    "line_items": [
+      {
+        "item_code": "ITEM-8728",
+        "description": "Product 1",
+        "quantity_ordered": 6,
+        "quantity_received": 7,
+        "unit_price": 384.4
+      },
+      {
+        "item_code": "ITEM-6689",
+        "description": "Product 2",
+        "quantity_ordered": 9,
+        "quantity_received": 0,
+        "unit_price": 252.95
+      },
+      {
+        "item_code": "ITEM-4993",
+        "description": "Product 3",
+        "quantity_ordered": 4,
+        "quantity_received": 6,
+        "unit_price": 150.88
+      },
+      {
+        "item_code": "ITEM-9259",
+        "description": "Product 4",
+        "quantity_ordered": 7,
+        "quantity_received": 1,
+        "unit_price": 176.79
+      },
+      {
+        "item_code": "ITEM-7354",
+        "description": "Product 5",
+        "quantity_ordered": 3,
+        "quantity_received": 3,
+        "unit_price": 475.8
+      }
+    ],
+    "delivery_date": "2025-09-20T11:44:50.025284",
+    "approver": "manager5@company.com"
+  },
+  {
+    "po_number": "PO-2002",
+    "department": "Marketing",
+    "created_date": "2025-05-14T11:44:50.025284",
+    "vendor": "SupplyCo",
+    "total_amount": 2944.73,
+    "currency": "USD",
+    "status": "partially_received",
+    "line_items": [
+      {
+        "item_code": "ITEM-5166",
+        "description": "Product 1",
+        "quantity_ordered": 3,
+        "quantity_received": 5,
+        "unit_price": 412.86
+      },
+      {
+        "item_code": "ITEM-1398",
+        "description": "Product 2",
+        "quantity_ordered": 1,
+        "quantity_received": 10,
+        "unit_price": 143.05
+      },
+      {
+        "item_code": "ITEM-5382",
+        "description": "Product 3",
+        "quantity_ordered": 2,
+        "quantity_received": 9,
+        "unit_price": 355.7
+      },
+      {
+        "item_code": "ITEM-6971",
+        "description": "Product 4",
+        "quantity_ordered": 10,
+        "quantity_received": 1,
+        "unit_price": 421.26
+      }
+    ],
+    "delivery_date": "2025-09-20T11:44:50.025284",
+    "approver": "manager4@company.com"
+  },
+  {
+    "po_number": "PO-2003",
+    "department": "Marketing",
+    "created_date": "2025-06-20T11:44:50.025284",
+    "vendor": "TechCorp",
+    "total_amount": 7973.03,
+    "currency": "USD",
+    "status": "closed",
+    "line_items": [
+      {
+        "item_code": "ITEM-3757",
+        "description": "Product 1",
+        "quantity_ordered": 5,
+        "quantity_received": 2,
+        "unit_price": 14.41
+      },
+      {
+        "item_code": "ITEM-3407",
+        "description": "Product 2",
+        "quantity_ordered": 5,
+        "quantity_received": 9,
+        "unit_price": 18.95
+      },
+      {
+        "item_code": "ITEM-3582",
+        "description": "Product 3",
+        "quantity_ordered": 10,
+        "quantity_received": 6,
+        "unit_price": 66.37
+      },
+      {
+        "item_code": "ITEM-9805",
+        "description": "Product 4",
+        "quantity_ordered": 7,
+        "quantity_received": 3,
+        "unit_price": 303.31
+      },
+      {
+        "item_code": "ITEM-9820",
+        "description": "Product 5",
+        "quantity_ordered": 7,
+        "quantity_received": 3,
+        "unit_price": 208.79
+      }
+    ],
+    "delivery_date": "2025-09-23T11:44:50.025284",
+    "approver": "manager1@company.com"
+  },
+  {
+    "po_number": "PO-2004",
+    "department": "Finance",
+    "created_date": "2025-07-26T11:44:50.025284",
+    "vendor": "SupplyCo",
+    "total_amount": 2196.15,
+    "currency": "USD",
+    "status": "partially_received",
+    "line_items": [
+      {
+        "item_code": "ITEM-8280",
+        "description": "Product 1",
+        "quantity_ordered": 2,
+        "quantity_received": 6,
+        "unit_price": 407.15
+      }
+    ],
+    "delivery_date": "2025-09-05T11:44:50.025284",
+    "approver": "manager5@company.com"
+  },
+  {
+    "po_number": "PO-2005",
+    "department": "HR",
+    "created_date": "2025-06-21T11:44:50.025284",
+    "vendor": "ServicePro",
+    "total_amount": 7401.18,
+    "currency": "USD",
+    "status": "partially_received",
+    "line_items": [
+      {
+        "item_code": "ITEM-5379",
+        "description": "Product 1",
+        "quantity_ordered": 10,
+        "quantity_received": 8,
+        "unit_price": 235.38
+      },
+      {
+        "item_code": "ITEM-1186",
+        "description": "Product 2",
+        "quantity_ordered": 5,
+        "quantity_received": 6,
+        "unit_price": 201.97
+      },
+      {
+        "item_code": "ITEM-6653",
+        "description": "Product 3",
+        "quantity_ordered": 5,
+        "quantity_received": 5,
+        "unit_price": 440.51
+      },
+      {
+        "item_code": "ITEM-3697",
+        "description": "Product 4",
+        "quantity_ordered": 7,
+        "quantity_received": 2,
+        "unit_price": 113.97
+      }
+    ],
+    "delivery_date": "2025-09-29T11:44:50.025284",
+    "approver": "manager3@company.com"
+  },
+  {
+    "po_number": "PO-2006",
+    "department": "IT",
+    "created_date": "2025-06-22T11:44:50.025284",
+    "vendor": "ServicePro",
+    "total_amount": 3647.89,
+    "currency": "USD",
+    "status": "closed",
+    "line_items": [
+      {
+        "item_code": "ITEM-3589",
+        "description": "Product 1",
+        "quantity_ordered": 6,
+        "quantity_received": 5,
+        "unit_price": 478.06
+      },
+      {
+        "item_code": "ITEM-5113",
+        "description": "Product 2",
+        "quantity_ordered": 8,
+        "quantity_received": 0,
+        "unit_price": 209.82
+      },
+      {
+        "item_code": "ITEM-4174",
+        "description": "Product 3",
+        "quantity_ordered": 2,
+        "quantity_received": 2,
+        "unit_price": 417.56
+      },
+      {
+        "item_code": "ITEM-1964",
+        "description": "Product 4",
+        "quantity_ordered": 10,
+        "quantity_received": 3,
+        "unit_price": 51.69
+      },
+      {
+        "item_code": "ITEM-3623",
+        "description": "Product 5",
+        "quantity_ordered": 10,
+        "quantity_received": 9,
+        "unit_price": 222.29
+      }
+    ],
+    "delivery_date": "2025-09-23T11:44:50.025284",
+    "approver": "manager2@company.com"
+  },
+  {
+    "po_number": "PO-2007",
+    "department": "HR",
+    "created_date": "2025-05-14T11:44:50.025284",
+    "vendor": "MaterialsInc",
+    "total_amount": 1802.42,
+    "currency": "USD",
+    "status": "closed",
+    "line_items": [
+      {
+        "item_code": "ITEM-7356",
+        "description": "Product 1",
+        "quantity_ordered": 1,
+        "quantity_received": 10,
+        "unit_price": 89.7
+      },
+      {
+        "item_code": "ITEM-2025",
+        "description": "Product 2",
+        "quantity_ordered": 2,
+        "quantity_received": 3,
+        "unit_price": 316.9
+      },
+      {
+        "item_code": "ITEM-3069",
+        "description": "Product 3",
+        "quantity_ordered": 6,
+        "quantity_received": 5,
+        "unit_price": 457.12
+      },
+      {
+        "item_code": "ITEM-7910",
+        "description": "Product 4",
+        "quantity_ordered": 10,
+        "quantity_received": 7,
+        "unit_price": 140.44
+      },
+      {
+        "item_code": "ITEM-4638",
+        "description": "Product 5",
+        "quantity_ordered": 9,
+        "quantity_received": 8,
+        "unit_price": 45.83
+      }
+    ],
+    "delivery_date": "2025-09-15T11:44:50.025284",
+    "approver": "manager2@company.com"
+  },
+  {
+    "po_number": "PO-2008",
+    "department": "Operations",
+    "created_date": "2025-07-09T11:44:50.025284",
+    "vendor": "SupplyCo",
+    "total_amount": 8074.56,
+    "currency": "USD",
+    "status": "open",
+    "line_items": [
+      {
+        "item_code": "ITEM-6475",
+        "description": "Product 1",
+        "quantity_ordered": 4,
+        "quantity_received": 10,
+        "unit_price": 484.28
+      }
+    ],
+    "delivery_date": "2025-09-29T11:44:50.025284",
+    "approver": "manager5@company.com"
+  },
+  {
+    "po_number": "PO-2009",
+    "department": "Marketing",
+    "created_date": "2025-06-11T11:44:50.025284",
+    "vendor": "MaterialsInc",
+    "total_amount": 8962.09,
+    "currency": "USD",
+    "status": "partially_received",
+    "line_items": [
+      {
+        "item_code": "ITEM-7832",
+        "description": "Product 1",
+        "quantity_ordered": 8,
+        "quantity_received": 6,
+        "unit_price": 329.13
+      },
+      {
+        "item_code": "ITEM-2329",
+        "description": "Product 2",
+        "quantity_ordered": 5,
+        "quantity_received": 0,
+        "unit_price": 193.09
+      }
+    ],
+    "delivery_date": "2025-09-25T11:44:50.025284",
+    "approver": "manager3@company.com"
+  },
+  {
+    "po_number": "PO-2010",
+    "department": "IT",
+    "created_date": "2025-06-15T11:44:50.025284",
+    "vendor": "SupplyCo",
+    "total_amount": 2620.58,
+    "currency": "USD",
+    "status": "open",
+    "line_items": [
+      {
+        "item_code": "ITEM-9104",
+        "description": "Product 1",
+        "quantity_ordered": 10,
+        "quantity_received": 2,
+        "unit_price": 400.23
+      },
+      {
+        "item_code": "ITEM-1017",
+        "description": "Product 2",
+        "quantity_ordered": 8,
+        "quantity_received": 1,
+        "unit_price": 80.44
+      }
+    ],
+    "delivery_date": "2025-09-22T11:44:50.025284",
+    "approver": "manager5@company.com"
+  },
+  {
+    "po_number": "PO-2011",
+    "department": "IT",
+    "created_date": "2025-05-09T11:44:50.025284",
+    "vendor": "SupplyCo",
+    "total_amount": 2658.99,
+    "currency": "USD",
+    "status": "partially_received",
+    "line_items": [
+      {
+        "item_code": "ITEM-7721",
+        "description": "Product 1",
+        "quantity_ordered": 8,
+        "quantity_received": 9,
+        "unit_price": 402.98
+      },
+      {
+        "item_code": "ITEM-8498",
+        "description": "Product 2",
+        "quantity_ordered": 7,
+        "quantity_received": 2,
+        "unit_price": 53.75
+      },
+      {
+        "item_code": "ITEM-2298",
+        "description": "Product 3",
+        "quantity_ordered": 6,
+        "quantity_received": 6,
+        "unit_price": 102.11
+      },
+      {
+        "item_code": "ITEM-6604",
+        "description": "Product 4",
+        "quantity_ordered": 10,
+        "quantity_received": 1,
+        "unit_price": 225.1
+      }
+    ],
+    "delivery_date": "2025-09-26T11:44:50.025284",
+    "approver": "manager4@company.com"
+  },
+  {
+    "po_number": "PO-2012",
+    "department": "Finance",
+    "created_date": "2025-06-08T11:44:50.025284",
+    "vendor": "TechCorp",
+    "total_amount": 7457.75,
+    "currency": "USD",
+    "status": "open",
+    "line_items": [
+      {
+        "item_code": "ITEM-8306",
+        "description": "Product 1",
+        "quantity_ordered": 2,
+        "quantity_received": 5,
+        "unit_price": 222.49
+      },
+      {
+        "item_code": "ITEM-1057",
+        "description": "Product 2",
+        "quantity_ordered": 10,
+        "quantity_received": 3,
+        "unit_price": 112.98
+      },
+      {
+        "item_code": "ITEM-2203",
+        "description": "Product 3",
+        "quantity_ordered": 7,
+        "quantity_received": 0,
+        "unit_price": 398.1
+      },
+      {
+        "item_code": "ITEM-2904",
+        "description": "Product 4",
+        "quantity_ordered": 3,
+        "quantity_received": 7,
+        "unit_price": 125.33
+      },
+      {
+        "item_code": "ITEM-8668",
+        "description": "Product 5",
+        "quantity_ordered": 7,
+        "quantity_received": 7,
+        "unit_price": 464.77
+      }
+    ],
+    "delivery_date": "2025-09-18T11:44:50.025284",
+    "approver": "manager3@company.com"
+  },
+  {
+    "po_number": "PO-2013",
+    "department": "HR",
+    "created_date": "2025-05-05T11:44:50.025284",
+    "vendor": "MaterialsInc",
+    "total_amount": 4552.67,
+    "currency": "USD",
+    "status": "closed",
+    "line_items": [
+      {
+        "item_code": "ITEM-4920",
+        "description": "Product 1",
+        "quantity_ordered": 8,
+        "quantity_received": 6,
+        "unit_price": 104.18
+      },
+      {
+        "item_code": "ITEM-4988",
+        "description": "Product 2",
+        "quantity_ordered": 1,
+        "quantity_received": 6,
+        "unit_price": 30.27
+      },
+      {
+        "item_code": "ITEM-2007",
+        "description": "Product 3",
+        "quantity_ordered": 8,
+        "quantity_received": 4,
+        "unit_price": 386.02
+      }
+    ],
+    "delivery_date": "2025-09-19T11:44:50.025284",
+    "approver": "manager4@company.com"
+  },
+  {
+    "po_number": "PO-2014",
+    "department": "IT",
+    "created_date": "2025-06-25T11:44:50.025284",
+    "vendor": "ServicePro",
+    "total_amount": 8801.72,
+    "currency": "USD",
+    "status": "open",
+    "line_items": [
+      {
+        "item_code": "ITEM-3553",
+        "description": "Product 1",
+        "quantity_ordered": 4,
+        "quantity_received": 8,
+        "unit_price": 255.47
+      },
+      {
+        "item_code": "ITEM-2267",
+        "description": "Product 2",
+        "quantity_ordered": 6,
+        "quantity_received": 7,
+        "unit_price": 205.4
+      },
+      {
+        "item_code": "ITEM-8228",
+        "description": "Product 3",
+        "quantity_ordered": 2,
+        "quantity_received": 0,
+        "unit_price": 60.21
+      },
+      {
+        "item_code": "ITEM-3430",
+        "description": "Product 4",
+        "quantity_ordered": 9,
+        "quantity_received": 8,
+        "unit_price": 497.73
+      }
+    ],
+    "delivery_date": "2025-09-23T11:44:50.025284",
+    "approver": "manager1@company.com"
+  },
+  {
+    "po_number": "PO-2015",
+    "department": "IT",
+    "created_date": "2025-07-31T11:44:50.025284",
+    "vendor": "TechCorp",
+    "total_amount": 3248.62,
+    "currency": "USD",
+    "status": "partially_received",
+    "line_items": [
+      {
+        "item_code": "ITEM-4682",
+        "description": "Product 1",
+        "quantity_ordered": 2,
+        "quantity_received": 10,
+        "unit_price": 287.2
+      },
+      {
+        "item_code": "ITEM-7982",
+        "description": "Product 2",
+        "quantity_ordered": 9,
+        "quantity_received": 8,
+        "unit_price": 35.25
+      }
+    ],
+    "delivery_date": "2025-09-09T11:44:50.025284",
+    "approver": "manager1@company.com"
+  },
+  {
+    "po_number": "PO-2016",
+    "department": "Operations",
+    "created_date": "2025-06-15T11:44:50.025284",
+    "vendor": "SupplyCo",
+    "total_amount": 3077.33,
+    "currency": "USD",
+    "status": "partially_received",
+    "line_items": [
+      {
+        "item_code": "ITEM-3242",
+        "description": "Product 1",
+        "quantity_ordered": 6,
+        "quantity_received": 4,
+        "unit_price": 32.73
+      },
+      {
+        "item_code": "ITEM-4438",
+        "description": "Product 2",
+        "quantity_ordered": 2,
+        "quantity_received": 7,
+        "unit_price": 130.35
+      },
+      {
+        "item_code": "ITEM-2717",
+        "description": "Product 3",
+        "quantity_ordered": 9,
+        "quantity_received": 10,
+        "unit_price": 61.19
+      },
+      {
+        "item_code": "ITEM-1337",
+        "description": "Product 4",
+        "quantity_ordered": 5,
+        "quantity_received": 10,
+        "unit_price": 49.36
+      },
+      {
+        "item_code": "ITEM-6285",
+        "description": "Product 5",
+        "quantity_ordered": 7,
+        "quantity_received": 0,
+        "unit_price": 280.86
+      }
+    ],
+    "delivery_date": "2025-09-10T11:44:50.025284",
+    "approver": "manager2@company.com"
+  },
+  {
+    "po_number": "PO-2017",
+    "department": "Operations",
+    "created_date": "2025-06-18T11:44:50.025284",
+    "vendor": "TechCorp",
+    "total_amount": 5298.6,
+    "currency": "USD",
+    "status": "partially_received",
+    "line_items": [
+      {
+        "item_code": "ITEM-3131",
+        "description": "Product 1",
+        "quantity_ordered": 3,
+        "quantity_received": 6,
+        "unit_price": 215.94
+      },
+      {
+        "item_code": "ITEM-5589",
+        "description": "Product 2",
+        "quantity_ordered": 8,
+        "quantity_received": 6,
+        "unit_price": 54.43
+      },
+      {
+        "item_code": "ITEM-5461",
+        "description": "Product 3",
+        "quantity_ordered": 4,
+        "quantity_received": 10,
+        "unit_price": 345.3
+      },
+      {
+        "item_code": "ITEM-4008",
+        "description": "Product 4",
+        "quantity_ordered": 3,
+        "quantity_received": 5,
+        "unit_price": 180.07
+      },
+      {
+        "item_code": "ITEM-9342",
+        "description": "Product 5",
+        "quantity_ordered": 7,
+        "quantity_received": 9,
+        "unit_price": 83.25
+      }
+    ],
+    "delivery_date": "2025-09-23T11:44:50.025284",
+    "approver": "manager5@company.com"
+  },
+  {
+    "po_number": "PO-2018",
+    "department": "IT",
+    "created_date": "2025-07-07T11:44:50.025284",
+    "vendor": "MaterialsInc",
+    "total_amount": 7491.23,
+    "currency": "USD",
+    "status": "closed",
+    "line_items": [
+      {
+        "item_code": "ITEM-9838",
+        "description": "Product 1",
+        "quantity_ordered": 2,
+        "quantity_received": 5,
+        "unit_price": 295.03
+      },
+      {
+        "item_code": "ITEM-3500",
+        "description": "Product 2",
+        "quantity_ordered": 1,
+        "quantity_received": 3,
+        "unit_price": 323.49
+      }
+    ],
+    "delivery_date": "2025-09-23T11:44:50.025284",
+    "approver": "manager4@company.com"
+  },
+  {
+    "po_number": "PO-2019",
+    "department": "HR",
+    "created_date": "2025-07-16T11:44:50.025284",
+    "vendor": "SupplyCo",
+    "total_amount": 9895.55,
+    "currency": "USD",
+    "status": "partially_received",
+    "line_items": [
+      {
+        "item_code": "ITEM-6087",
+        "description": "Product 1",
+        "quantity_ordered": 7,
+        "quantity_received": 4,
+        "unit_price": 113.72
+      },
+      {
+        "item_code": "ITEM-3783",
+        "description": "Product 2",
+        "quantity_ordered": 8,
+        "quantity_received": 5,
+        "unit_price": 369.63
+      },
+      {
+        "item_code": "ITEM-2702",
+        "description": "Product 3",
+        "quantity_ordered": 1,
+        "quantity_received": 7,
+        "unit_price": 298.5
+      }
+    ],
+    "delivery_date": "2025-09-29T11:44:50.025284",
+    "approver": "manager1@company.com"
+  },
+  {
+    "po_number": "PO-2020",
+    "department": "IT",
+    "created_date": "2025-06-06T11:44:50.025284",
+    "vendor": "SupplyCo",
+    "total_amount": 7853.86,
+    "currency": "USD",
+    "status": "closed",
+    "line_items": [
+      {
+        "item_code": "ITEM-2510",
+        "description": "Product 1",
+        "quantity_ordered": 10,
+        "quantity_received": 9,
+        "unit_price": 176.29
+      },
+      {
+        "item_code": "ITEM-8553",
+        "description": "Product 2",
+        "quantity_ordered": 6,
+        "quantity_received": 5,
+        "unit_price": 301.41
+      }
+    ],
+    "delivery_date": "2025-09-18T11:44:50.025284",
+    "approver": "manager5@company.com"
+  },
+  {
+    "po_number": "PO-2021",
+    "department": "Operations",
+    "created_date": "2025-06-09T11:44:50.025284",
+    "vendor": "SupplyCo",
+    "total_amount": 8349.01,
+    "currency": "USD",
+    "status": "closed",
+    "line_items": [
+      {
+        "item_code": "ITEM-1243",
+        "description": "Product 1",
+        "quantity_ordered": 1,
+        "quantity_received": 6,
+        "unit_price": 307.56
+      },
+      {
+        "item_code": "ITEM-2617",
+        "description": "Product 2",
+        "quantity_ordered": 9,
+        "quantity_received": 10,
+        "unit_price": 249.75
+      }
+    ],
+    "delivery_date": "2025-09-19T11:44:50.025284",
+    "approver": "manager5@company.com"
+  },
+  {
+    "po_number": "PO-2022",
+    "department": "IT",
+    "created_date": "2025-05-17T11:44:50.025284",
+    "vendor": "ServicePro",
+    "total_amount": 4606.44,
+    "currency": "USD",
+    "status": "partially_received",
+    "line_items": [
+      {
+        "item_code": "ITEM-1277",
+        "description": "Product 1",
+        "quantity_ordered": 4,
+        "quantity_received": 3,
+        "unit_price": 300.1
+      },
+      {
+        "item_code": "ITEM-8526",
+        "description": "Product 2",
+        "quantity_ordered": 10,
+        "quantity_received": 0,
+        "unit_price": 247.89
+      },
+      {
+        "item_code": "ITEM-1269",
+        "description": "Product 3",
+        "quantity_ordered": 5,
+        "quantity_received": 0,
+        "unit_price": 488.27
+      },
+      {
+        "item_code": "ITEM-5654",
+        "description": "Product 4",
+        "quantity_ordered": 7,
+        "quantity_received": 4,
+        "unit_price": 274.97
+      },
+      {
+        "item_code": "ITEM-1508",
+        "description": "Product 5",
+        "quantity_ordered": 2,
+        "quantity_received": 9,
+        "unit_price": 403.56
+      }
+    ],
+    "delivery_date": "2025-09-05T11:44:50.025284",
+    "approver": "manager5@company.com"
+  },
+  {
+    "po_number": "PO-2023",
+    "department": "Operations",
+    "created_date": "2025-05-21T11:44:50.025284",
+    "vendor": "TechCorp",
+    "total_amount": 4077.64,
+    "currency": "USD",
+    "status": "open",
+    "line_items": [
+      {
+        "item_code": "ITEM-6753",
+        "description": "Product 1",
+        "quantity_ordered": 9,
+        "quantity_received": 9,
+        "unit_price": 401.79
+      }
+    ],
+    "delivery_date": "2025-09-19T11:44:50.025284",
+    "approver": "manager3@company.com"
+  },
+  {
+    "po_number": "PO-2024",
+    "department": "Operations",
+    "created_date": "2025-05-14T11:44:50.025284",
+    "vendor": "ServicePro",
+    "total_amount": 6624.36,
+    "currency": "USD",
+    "status": "partially_received",
+    "line_items": [
+      {
+        "item_code": "ITEM-6145",
+        "description": "Product 1",
+        "quantity_ordered": 4,
+        "quantity_received": 1,
+        "unit_price": 403.21
+      },
+      {
+        "item_code": "ITEM-4243",
+        "description": "Product 2",
+        "quantity_ordered": 5,
+        "quantity_received": 9,
+        "unit_price": 314.52
+      }
+    ],
+    "delivery_date": "2025-09-18T11:44:50.025284",
+    "approver": "manager2@company.com"
+  },
+  {
+    "po_number": "PO-2025",
+    "department": "HR",
+    "created_date": "2025-05-21T11:44:50.025284",
+    "vendor": "TechCorp",
+    "total_amount": 7671.37,
+    "currency": "USD",
+    "status": "closed",
+    "line_items": [
+      {
+        "item_code": "ITEM-3829",
+        "description": "Product 1",
+        "quantity_ordered": 7,
+        "quantity_received": 5,
+        "unit_price": 414.11
+      },
+      {
+        "item_code": "ITEM-2396",
+        "description": "Product 2",
+        "quantity_ordered": 7,
+        "quantity_received": 8,
+        "unit_price": 423.06
+      },
+      {
+        "item_code": "ITEM-3576",
+        "description": "Product 3",
+        "quantity_ordered": 3,
+        "quantity_received": 2,
+        "unit_price": 332.3
+      },
+      {
+        "item_code": "ITEM-5043",
+        "description": "Product 4",
+        "quantity_ordered": 10,
+        "quantity_received": 3,
+        "unit_price": 65.36
+      },
+      {
+        "item_code": "ITEM-6787",
+        "description": "Product 5",
+        "quantity_ordered": 3,
+        "quantity_received": 1,
+        "unit_price": 114.84
+      }
+    ],
+    "delivery_date": "2025-09-08T11:44:50.025284",
+    "approver": "manager2@company.com"
+  },
+  {
+    "po_number": "PO-2026",
+    "department": "Finance",
+    "created_date": "2025-07-15T11:44:50.025284",
+    "vendor": "TechCorp",
+    "total_amount": 7983.87,
+    "currency": "USD",
+    "status": "open",
+    "line_items": [
+      {
+        "item_code": "ITEM-2640",
+        "description": "Product 1",
+        "quantity_ordered": 4,
+        "quantity_received": 10,
+        "unit_price": 121.89
+      },
+      {
+        "item_code": "ITEM-4913",
+        "description": "Product 2",
+        "quantity_ordered": 9,
+        "quantity_received": 8,
+        "unit_price": 137.41
+      },
+      {
+        "item_code": "ITEM-4154",
+        "description": "Product 3",
+        "quantity_ordered": 3,
+        "quantity_received": 1,
+        "unit_price": 402.12
+      },
+      {
+        "item_code": "ITEM-8051",
+        "description": "Product 4",
+        "quantity_ordered": 7,
+        "quantity_received": 1,
+        "unit_price": 31.42
+      },
+      {
+        "item_code": "ITEM-5658",
+        "description": "Product 5",
+        "quantity_ordered": 10,
+        "quantity_received": 8,
+        "unit_price": 33.9
+      }
+    ],
+    "delivery_date": "2025-09-05T11:44:50.025284",
+    "approver": "manager5@company.com"
+  },
+  {
+    "po_number": "PO-2027",
+    "department": "Finance",
+    "created_date": "2025-05-09T11:44:50.025284",
+    "vendor": "ServicePro",
+    "total_amount": 6005.08,
+    "currency": "USD",
+    "status": "closed",
+    "line_items": [
+      {
+        "item_code": "ITEM-2974",
+        "description": "Product 1",
+        "quantity_ordered": 4,
+        "quantity_received": 6,
+        "unit_price": 173.05
+      },
+      {
+        "item_code": "ITEM-4040",
+        "description": "Product 2",
+        "quantity_ordered": 8,
+        "quantity_received": 0,
+        "unit_price": 176.68
+      },
+      {
+        "item_code": "ITEM-8647",
+        "description": "Product 3",
+        "quantity_ordered": 9,
+        "quantity_received": 10,
+        "unit_price": 255.1
+      },
+      {
+        "item_code": "ITEM-8056",
+        "description": "Product 4",
+        "quantity_ordered": 3,
+        "quantity_received": 4,
+        "unit_price": 281.76
+      }
+    ],
+    "delivery_date": "2025-09-15T11:44:50.025284",
+    "approver": "manager4@company.com"
+  },
+  {
+    "po_number": "PO-2028",
+    "department": "IT",
+    "created_date": "2025-07-26T11:44:50.025284",
+    "vendor": "ServicePro",
+    "total_amount": 2286.15,
+    "currency": "USD",
+    "status": "closed",
+    "line_items": [
+      {
+        "item_code": "ITEM-9481",
+        "description": "Product 1",
+        "quantity_ordered": 2,
+        "quantity_received": 7,
+        "unit_price": 11.27
+      },
+      {
+        "item_code": "ITEM-4155",
+        "description": "Product 2",
+        "quantity_ordered": 10,
+        "quantity_received": 5,
+        "unit_price": 306.87
+      },
+      {
+        "item_code": "ITEM-2073",
+        "description": "Product 3",
+        "quantity_ordered": 7,
+        "quantity_received": 10,
+        "unit_price": 37.04
+      },
+      {
+        "item_code": "ITEM-8871",
+        "description": "Product 4",
+        "quantity_ordered": 4,
+        "quantity_received": 7,
+        "unit_price": 142.71
+      }
+    ],
+    "delivery_date": "2025-09-11T11:44:50.025284",
+    "approver": "manager4@company.com"
+  },
+  {
+    "po_number": "PO-2029",
+    "department": "Finance",
+    "created_date": "2025-06-17T11:44:50.025284",
+    "vendor": "MaterialsInc",
+    "total_amount": 5372.13,
+    "currency": "USD",
+    "status": "closed",
+    "line_items": [
+      {
+        "item_code": "ITEM-5452",
+        "description": "Product 1",
+        "quantity_ordered": 10,
+        "quantity_received": 2,
+        "unit_price": 188.97
+      }
+    ],
+    "delivery_date": "2025-09-22T11:44:50.025284",
+    "approver": "manager2@company.com"
+  },
+  {
+    "po_number": "PO-2030",
+    "department": "Finance",
+    "created_date": "2025-06-25T11:44:50.025284",
+    "vendor": "MaterialsInc",
+    "total_amount": 5290.5,
+    "currency": "USD",
+    "status": "closed",
+    "line_items": [
+      {
+        "item_code": "ITEM-9116",
+        "description": "Product 1",
+        "quantity_ordered": 5,
+        "quantity_received": 2,
+        "unit_price": 381.09
+      },
+      {
+        "item_code": "ITEM-6533",
+        "description": "Product 2",
+        "quantity_ordered": 6,
+        "quantity_received": 1,
+        "unit_price": 69.4
+      },
+      {
+        "item_code": "ITEM-7375",
+        "description": "Product 3",
+        "quantity_ordered": 4,
+        "quantity_received": 2,
+        "unit_price": 379.53
+      },
+      {
+        "item_code": "ITEM-4638",
+        "description": "Product 4",
+        "quantity_ordered": 6,
+        "quantity_received": 7,
+        "unit_price": 376.8
+      },
+      {
+        "item_code": "ITEM-5114",
+        "description": "Product 5",
+        "quantity_ordered": 5,
+        "quantity_received": 9,
+        "unit_price": 426.36
+      }
+    ],
+    "delivery_date": "2025-09-17T11:44:50.025284",
+    "approver": "manager5@company.com"
+  },
+  {
+    "po_number": "PO-2031",
+    "department": "Finance",
+    "created_date": "2025-07-08T11:44:50.025284",
+    "vendor": "ServicePro",
+    "total_amount": 2201.1,
+    "currency": "USD",
+    "status": "closed",
+    "line_items": [
+      {
+        "item_code": "ITEM-9356",
+        "description": "Product 1",
+        "quantity_ordered": 7,
+        "quantity_received": 0,
+        "unit_price": 236.16
+      },
+      {
+        "item_code": "ITEM-7533",
+        "description": "Product 2",
+        "quantity_ordered": 1,
+        "quantity_received": 0,
+        "unit_price": 23.08
+      }
+    ],
+    "delivery_date": "2025-09-28T11:44:50.025284",
+    "approver": "manager5@company.com"
+  },
+  {
+    "po_number": "PO-2032",
+    "department": "Operations",
+    "created_date": "2025-07-06T11:44:50.025284",
+    "vendor": "MaterialsInc",
+    "total_amount": 1812.04,
+    "currency": "USD",
+    "status": "closed",
+    "line_items": [
+      {
+        "item_code": "ITEM-5743",
+        "description": "Product 1",
+        "quantity_ordered": 6,
+        "quantity_received": 3,
+        "unit_price": 50.14
+      },
+      {
+        "item_code": "ITEM-5329",
+        "description": "Product 2",
+        "quantity_ordered": 1,
+        "quantity_received": 8,
+        "unit_price": 204.54
+      },
+      {
+        "item_code": "ITEM-4740",
+        "description": "Product 3",
+        "quantity_ordered": 5,
+        "quantity_received": 3,
+        "unit_price": 77.71
+      },
+      {
+        "item_code": "ITEM-8167",
+        "description": "Product 4",
+        "quantity_ordered": 6,
+        "quantity_received": 7,
+        "unit_price": 76.23
+      },
+      {
+        "item_code": "ITEM-4042",
+        "description": "Product 5",
+        "quantity_ordered": 4,
+        "quantity_received": 8,
+        "unit_price": 463.31
+      }
+    ],
+    "delivery_date": "2025-09-13T11:44:50.025284",
+    "approver": "manager2@company.com"
+  },
+  {
+    "po_number": "PO-2033",
+    "department": "Marketing",
+    "created_date": "2025-06-24T11:44:50.025284",
+    "vendor": "SupplyCo",
+    "total_amount": 6381.02,
+    "currency": "USD",
+    "status": "open",
+    "line_items": [
+      {
+        "item_code": "ITEM-9479",
+        "description": "Product 1",
+        "quantity_ordered": 3,
+        "quantity_received": 10,
+        "unit_price": 383.93
+      },
+      {
+        "item_code": "ITEM-3677",
+        "description": "Product 2",
+        "quantity_ordered": 3,
+        "quantity_received": 2,
+        "unit_price": 271.15
+      },
+      {
+        "item_code": "ITEM-9288",
+        "description": "Product 3",
+        "quantity_ordered": 7,
+        "quantity_received": 4,
+        "unit_price": 61.84
+      },
+      {
+        "item_code": "ITEM-4489",
+        "description": "Product 4",
+        "quantity_ordered": 4,
+        "quantity_received": 8,
+        "unit_price": 475.29
+      },
+      {
+        "item_code": "ITEM-8900",
+        "description": "Product 5",
+        "quantity_ordered": 8,
+        "quantity_received": 0,
+        "unit_price": 469.18
+      }
+    ],
+    "delivery_date": "2025-09-09T11:44:50.025284",
+    "approver": "manager2@company.com"
+  },
+  {
+    "po_number": "PO-2034",
+    "department": "HR",
+    "created_date": "2025-07-24T11:44:50.025284",
+    "vendor": "TechCorp",
+    "total_amount": 3794.25,
+    "currency": "USD",
+    "status": "partially_received",
+    "line_items": [
+      {
+        "item_code": "ITEM-4779",
+        "description": "Product 1",
+        "quantity_ordered": 6,
+        "quantity_received": 9,
+        "unit_price": 29.47
+      },
+      {
+        "item_code": "ITEM-4024",
+        "description": "Product 2",
+        "quantity_ordered": 8,
+        "quantity_received": 1,
+        "unit_price": 495.16
+      },
+      {
+        "item_code": "ITEM-4540",
+        "description": "Product 3",
+        "quantity_ordered": 6,
+        "quantity_received": 7,
+        "unit_price": 277.67
+      }
+    ],
+    "delivery_date": "2025-09-19T11:44:50.025284",
+    "approver": "manager5@company.com"
+  },
+  {
+    "po_number": "PO-2035",
+    "department": "Finance",
+    "created_date": "2025-07-27T11:44:50.025284",
+    "vendor": "MaterialsInc",
+    "total_amount": 8318.27,
+    "currency": "USD",
+    "status": "open",
+    "line_items": [
+      {
+        "item_code": "ITEM-2123",
+        "description": "Product 1",
+        "quantity_ordered": 3,
+        "quantity_received": 6,
+        "unit_price": 414.91
+      },
+      {
+        "item_code": "ITEM-2423",
+        "description": "Product 2",
+        "quantity_ordered": 1,
+        "quantity_received": 9,
+        "unit_price": 110.81
+      },
+      {
+        "item_code": "ITEM-4348",
+        "description": "Product 3",
+        "quantity_ordered": 7,
+        "quantity_received": 2,
+        "unit_price": 227.2
+      },
+      {
+        "item_code": "ITEM-9866",
+        "description": "Product 4",
+        "quantity_ordered": 3,
+        "quantity_received": 10,
+        "unit_price": 206.15
+      }
+    ],
+    "delivery_date": "2025-09-04T11:44:50.025284",
+    "approver": "manager2@company.com"
+  },
+  {
+    "po_number": "PO-2036",
+    "department": "Finance",
+    "created_date": "2025-07-27T11:44:50.025284",
+    "vendor": "ServicePro",
+    "total_amount": 6065.2,
+    "currency": "USD",
+    "status": "partially_received",
+    "line_items": [
+      {
+        "item_code": "ITEM-1740",
+        "description": "Product 1",
+        "quantity_ordered": 8,
+        "quantity_received": 6,
+        "unit_price": 479.98
+      },
+      {
+        "item_code": "ITEM-2613",
+        "description": "Product 2",
+        "quantity_ordered": 9,
+        "quantity_received": 10,
+        "unit_price": 63.78
+      },
+      {
+        "item_code": "ITEM-2492",
+        "description": "Product 3",
+        "quantity_ordered": 3,
+        "quantity_received": 9,
+        "unit_price": 19.18
+      }
+    ],
+    "delivery_date": "2025-09-12T11:44:50.025284",
+    "approver": "manager3@company.com"
+  },
+  {
+    "po_number": "PO-2037",
+    "department": "HR",
+    "created_date": "2025-05-25T11:44:50.025284",
+    "vendor": "SupplyCo",
+    "total_amount": 4595.81,
+    "currency": "USD",
+    "status": "open",
+    "line_items": [
+      {
+        "item_code": "ITEM-5883",
+        "description": "Product 1",
+        "quantity_ordered": 7,
+        "quantity_received": 0,
+        "unit_price": 400.91
+      },
+      {
+        "item_code": "ITEM-6751",
+        "description": "Product 2",
+        "quantity_ordered": 8,
+        "quantity_received": 6,
+        "unit_price": 243.96
+      }
+    ],
+    "delivery_date": "2025-09-17T11:44:50.025284",
+    "approver": "manager4@company.com"
+  },
+  {
+    "po_number": "PO-2038",
+    "department": "HR",
+    "created_date": "2025-07-14T11:44:50.025284",
+    "vendor": "MaterialsInc",
+    "total_amount": 1832.9,
+    "currency": "USD",
+    "status": "partially_received",
+    "line_items": [
+      {
+        "item_code": "ITEM-6251",
+        "description": "Product 1",
+        "quantity_ordered": 5,
+        "quantity_received": 9,
+        "unit_price": 22.88
+      },
+      {
+        "item_code": "ITEM-9998",
+        "description": "Product 2",
+        "quantity_ordered": 10,
+        "quantity_received": 3,
+        "unit_price": 294.38
+      },
+      {
+        "item_code": "ITEM-7892",
+        "description": "Product 3",
+        "quantity_ordered": 5,
+        "quantity_received": 5,
+        "unit_price": 347.57
+      },
+      {
+        "item_code": "ITEM-6959",
+        "description": "Product 4",
+        "quantity_ordered": 9,
+        "quantity_received": 1,
+        "unit_price": 407.47
+      }
+    ],
+    "delivery_date": "2025-09-11T11:44:50.025284",
+    "approver": "manager2@company.com"
+  },
+  {
+    "po_number": "PO-2039",
+    "department": "IT",
+    "created_date": "2025-06-09T11:44:50.025284",
+    "vendor": "TechCorp",
+    "total_amount": 6143.76,
+    "currency": "USD",
+    "status": "closed",
+    "line_items": [
+      {
+        "item_code": "ITEM-1744",
+        "description": "Product 1",
+        "quantity_ordered": 5,
+        "quantity_received": 5,
+        "unit_price": 63.5
+      }
+    ],
+    "delivery_date": "2025-09-27T11:44:50.025284",
+    "approver": "manager2@company.com"
+  },
+  {
+    "po_number": "PO-2040",
+    "department": "Operations",
+    "created_date": "2025-06-07T11:44:50.025284",
+    "vendor": "SupplyCo",
+    "total_amount": 2140.07,
+    "currency": "USD",
+    "status": "closed",
+    "line_items": [
+      {
+        "item_code": "ITEM-3594",
+        "description": "Product 1",
+        "quantity_ordered": 7,
+        "quantity_received": 2,
+        "unit_price": 328.19
+      },
+      {
+        "item_code": "ITEM-2406",
+        "description": "Product 2",
+        "quantity_ordered": 10,
+        "quantity_received": 3,
+        "unit_price": 323.09
+      },
+      {
+        "item_code": "ITEM-5097",
+        "description": "Product 3",
+        "quantity_ordered": 9,
+        "quantity_received": 5,
+        "unit_price": 230.92
+      }
+    ],
+    "delivery_date": "2025-09-23T11:44:50.025284",
+    "approver": "manager5@company.com"
+  },
+  {
+    "po_number": "PO-2041",
+    "department": "Marketing",
+    "created_date": "2025-05-22T11:44:50.025284",
+    "vendor": "TechCorp",
+    "total_amount": 7694.22,
+    "currency": "USD",
+    "status": "open",
+    "line_items": [
+      {
+        "item_code": "ITEM-3681",
+        "description": "Product 1",
+        "quantity_ordered": 8,
+        "quantity_received": 4,
+        "unit_price": 363.19
+      },
+      {
+        "item_code": "ITEM-4317",
+        "description": "Product 2",
+        "quantity_ordered": 6,
+        "quantity_received": 3,
+        "unit_price": 188.23
+      },
+      {
+        "item_code": "ITEM-2268",
+        "description": "Product 3",
+        "quantity_ordered": 2,
+        "quantity_received": 6,
+        "unit_price": 219.52
+      },
+      {
+        "item_code": "ITEM-9315",
+        "description": "Product 4",
+        "quantity_ordered": 1,
+        "quantity_received": 6,
+        "unit_price": 213.81
+      }
+    ],
+    "delivery_date": "2025-09-27T11:44:50.025284",
+    "approver": "manager4@company.com"
+  },
+  {
+    "po_number": "PO-2042",
+    "department": "Marketing",
+    "created_date": "2025-06-03T11:44:50.025284",
+    "vendor": "MaterialsInc",
+    "total_amount": 2995.03,
+    "currency": "USD",
+    "status": "partially_received",
+    "line_items": [
+      {
+        "item_code": "ITEM-5431",
+        "description": "Product 1",
+        "quantity_ordered": 7,
+        "quantity_received": 0,
+        "unit_price": 382.67
+      },
+      {
+        "item_code": "ITEM-6319",
+        "description": "Product 2",
+        "quantity_ordered": 10,
+        "quantity_received": 1,
+        "unit_price": 313.64
+      }
+    ],
+    "delivery_date": "2025-09-25T11:44:50.025284",
+    "approver": "manager2@company.com"
+  },
+  {
+    "po_number": "PO-2043",
+    "department": "Finance",
+    "created_date": "2025-06-14T11:44:50.025284",
+    "vendor": "TechCorp",
+    "total_amount": 3701.41,
+    "currency": "USD",
+    "status": "open",
+    "line_items": [
+      {
+        "item_code": "ITEM-8215",
+        "description": "Product 1",
+        "quantity_ordered": 7,
+        "quantity_received": 10,
+        "unit_price": 491.66
+      }
+    ],
+    "delivery_date": "2025-09-08T11:44:50.025284",
+    "approver": "manager3@company.com"
+  },
+  {
+    "po_number": "PO-2044",
+    "department": "Operations",
+    "created_date": "2025-07-25T11:44:50.025284",
+    "vendor": "ServicePro",
+    "total_amount": 5261.9,
+    "currency": "USD",
+    "status": "partially_received",
+    "line_items": [
+      {
+        "item_code": "ITEM-4772",
+        "description": "Product 1",
+        "quantity_ordered": 9,
+        "quantity_received": 10,
+        "unit_price": 140.45
+      },
+      {
+        "item_code": "ITEM-4980",
+        "description": "Product 2",
+        "quantity_ordered": 4,
+        "quantity_received": 10,
+        "unit_price": 23.69
+      },
+      {
+        "item_code": "ITEM-7093",
+        "description": "Product 3",
+        "quantity_ordered": 1,
+        "quantity_received": 3,
+        "unit_price": 16.85
+      },
+      {
+        "item_code": "ITEM-6486",
+        "description": "Product 4",
+        "quantity_ordered": 4,
+        "quantity_received": 2,
+        "unit_price": 247.14
+      }
+    ],
+    "delivery_date": "2025-09-23T11:44:50.025284",
+    "approver": "manager2@company.com"
+  },
+  {
+    "po_number": "PO-2045",
+    "department": "Operations",
+    "created_date": "2025-05-30T11:44:50.025284",
+    "vendor": "SupplyCo",
+    "total_amount": 5029.05,
+    "currency": "USD",
+    "status": "partially_received",
+    "line_items": [
+      {
+        "item_code": "ITEM-3972",
+        "description": "Product 1",
+        "quantity_ordered": 9,
+        "quantity_received": 6,
+        "unit_price": 27.02
+      }
+    ],
+    "delivery_date": "2025-09-05T11:44:50.025284",
+    "approver": "manager3@company.com"
+  },
+  {
+    "po_number": "PO-2046",
+    "department": "IT",
+    "created_date": "2025-06-15T11:44:50.025284",
+    "vendor": "TechCorp",
+    "total_amount": 9789.14,
+    "currency": "USD",
+    "status": "partially_received",
+    "line_items": [
+      {
+        "item_code": "ITEM-8609",
+        "description": "Product 1",
+        "quantity_ordered": 1,
+        "quantity_received": 0,
+        "unit_price": 202.49
+      },
+      {
+        "item_code": "ITEM-4719",
+        "description": "Product 2",
+        "quantity_ordered": 3,
+        "quantity_received": 7,
+        "unit_price": 481.65
+      }
+    ],
+    "delivery_date": "2025-09-22T11:44:50.025284",
+    "approver": "manager5@company.com"
+  },
+  {
+    "po_number": "PO-2047",
+    "department": "HR",
+    "created_date": "2025-05-04T11:44:50.025284",
+    "vendor": "MaterialsInc",
+    "total_amount": 7230.05,
+    "currency": "USD",
+    "status": "closed",
+    "line_items": [
+      {
+        "item_code": "ITEM-5458",
+        "description": "Product 1",
+        "quantity_ordered": 5,
+        "quantity_received": 9,
+        "unit_price": 212.36
+      },
+      {
+        "item_code": "ITEM-3301",
+        "description": "Product 2",
+        "quantity_ordered": 3,
+        "quantity_received": 6,
+        "unit_price": 72.89
+      },
+      {
+        "item_code": "ITEM-6519",
+        "description": "Product 3",
+        "quantity_ordered": 3,
+        "quantity_received": 1,
+        "unit_price": 143.14
+      },
+      {
+        "item_code": "ITEM-1645",
+        "description": "Product 4",
+        "quantity_ordered": 3,
+        "quantity_received": 8,
+        "unit_price": 452.62
+      }
+    ],
+    "delivery_date": "2025-09-20T11:44:50.025284",
+    "approver": "manager5@company.com"
+  },
+  {
+    "po_number": "PO-2048",
+    "department": "IT",
+    "created_date": "2025-06-07T11:44:50.025284",
+    "vendor": "ServicePro",
+    "total_amount": 8075.39,
+    "currency": "USD",
+    "status": "open",
+    "line_items": [
+      {
+        "item_code": "ITEM-2095",
+        "description": "Product 1",
+        "quantity_ordered": 7,
+        "quantity_received": 1,
+        "unit_price": 123.18
+      },
+      {
+        "item_code": "ITEM-8330",
+        "description": "Product 2",
+        "quantity_ordered": 10,
+        "quantity_received": 7,
+        "unit_price": 257.42
+      },
+      {
+        "item_code": "ITEM-6015",
+        "description": "Product 3",
+        "quantity_ordered": 10,
+        "quantity_received": 3,
+        "unit_price": 193.33
+      }
+    ],
+    "delivery_date": "2025-09-26T11:44:50.025284",
+    "approver": "manager3@company.com"
+  },
+  {
+    "po_number": "PO-2049",
+    "department": "Finance",
+    "created_date": "2025-05-18T11:44:50.025284",
+    "vendor": "MaterialsInc",
+    "total_amount": 8391.68,
+    "currency": "USD",
+    "status": "open",
+    "line_items": [
+      {
+        "item_code": "ITEM-8119",
+        "description": "Product 1",
+        "quantity_ordered": 8,
+        "quantity_received": 0,
+        "unit_price": 114.15
+      }
+    ],
+    "delivery_date": "2025-09-11T11:44:50.025284",
+    "approver": "manager3@company.com"
+  }
+]
