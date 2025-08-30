@@ -60,7 +60,7 @@ text
 ## ✅ Provenance & Audit🏗️ AGENTIC RAG ARCHITECTURE - INVOICE MATCHER
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ssk-2003/agentic-rag-invoice-matcher/Flowchart.png" alt="Landing Page" width="300"/>
+  <img src="https://raw.githubusercontent.com/ssk-2003/agentic-rag-invoice-matcher/screenshort/Flowchart.png" alt="Landing Page" width="500"/>
 </div>
 
 
@@ -71,6 +71,7 @@ COMPONENTS:
 • Verifier: Confidence scoring & validation
 • Response Synthesizer: Human-readable answer generation
 • Audit Log: Complete pipeline tracking (JSON format)
+
 
 
 
