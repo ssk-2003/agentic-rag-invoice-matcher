@@ -37,7 +37,6 @@ text
 
 ## 📅 Architecture Diagram
 
-*(Insert architecture_diagram.png or a drawing of your component flow here)*
 
 ## 🗂️ Files & Folders
 
@@ -68,6 +67,7 @@ COMPONENTS:
 • Verifier: Confidence scoring & validation
 • Response Synthesizer: Human-readable answer generation
 • Audit Log: Complete pipeline tracking (JSON format)
+
 
 
 
